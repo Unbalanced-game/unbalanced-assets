@@ -1,7 +1,7 @@
 ---
 name: Card request
 about: Suggest an idea for a future card
-title: ''
+title: '[card request]'
 labels: card request
 assignees: ''
 
@@ -17,5 +17,5 @@ A clear and concise description of the card you' like to have:
 **Additional context**
 Add any other context or pictures about the feature request here.
 
-[ ] my card request is only for one card
-[ ] there are no similar card requests
+- [ ] my card request is only for one card
+- [ ] there are no similar card requests
