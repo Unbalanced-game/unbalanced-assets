@@ -2,16 +2,17 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**Cards affected**
-Mention all cards affected by this bug.
+**Describe how the card should be changed**
+A clear and concise description of the part you'd like to be changed:
+* Name of the card*
+2. describe image
+3. name of the card
+4. text description for the card
 
 **Additional context**
 Add any other context about the problem here.
